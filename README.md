@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Nouman-Mughal
 - 👀 I’m interested in learnig full-stack web development.
-- 🌱 I’m currently learning node and express on javascript using freecodecamp.org and Odin project.
 
 - 📫 you can reach me on my mail programmer.noman786@gmail.com
 
