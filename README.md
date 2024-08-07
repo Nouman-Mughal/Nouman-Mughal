@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nouman-Mughal
-- 👀 I’m interested in learnig full-stack web development.
+- 👀 I’m interested in learnig full-stack Software development.
 
 - 📫 you can reach me on my mail programmer.noman786@gmail.com
 
