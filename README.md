@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Improving Myself As A Software Engineer<br>👯 I’m looking to collaborate on Complex Software Development Where I can meet with challenges<br>🤝 I’m looking for help with Learning Generative AI<br>🌱 I’m currently learning Generative AI and Improving my DSA skills.<br>💬 Ask me about AI<br>⚡ Fun fact AI will replace some of the programmers
+🔭 I’m currently working on Improving Myself As A Data Engineer<br>👯 I’m looking to collaborate on Complex Software Development Where I can meet with challenges<br>🤝 I’m looking for help with Learning Generative AI<br>🌱 I’m currently learning Generative AI and Improving my DSA skills.<br>💬 Ask me about AI<br>⚡ Fun fact AI will replace some of the programmers
 
 
 # 💻 Tech Stack:
